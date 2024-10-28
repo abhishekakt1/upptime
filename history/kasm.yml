@@ -1,7 +1,7 @@
-url: $KASM
-status: up
-code: 200
-responseTime: 239
-lastUpdated: 2024-10-28T12:05:46.885Z
+url: $KASM_US
+status: down
+code: 521
+responseTime: 146
+lastUpdated: 2024-10-28T19:06:09.261Z
 startTime: 2024-10-28T08:50:32.904Z
 generator: Upptime <https://github.com/upptime/upptime>
