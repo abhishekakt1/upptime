@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archie-plays",
     "status": "up",
-    "uptime": "85.93%",
-    "uptimeDay": "85.93%",
-    "uptimeWeek": "85.93%",
-    "uptimeMonth": "85.93%",
-    "uptimeYear": "85.93%",
+    "uptime": "87.64%",
+    "uptimeDay": "87.64%",
+    "uptimeWeek": "87.64%",
+    "uptimeMonth": "87.64%",
+    "uptimeYear": "87.64%",
     "time": 1044,
     "timeDay": 1044,
     "timeWeek": 1044,
@@ -162,7 +162,7 @@
     "timeMonth": 1082,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2024-10-28": 351
+      "2024-10-28": 400
     }
   },
   {
@@ -182,7 +182,7 @@
     "timeMonth": 1038,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2024-10-28": 351
+      "2024-10-28": 400
     }
   },
   {
@@ -227,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "55.61%",
-    "uptimeDay": "55.61%",
-    "uptimeWeek": "55.61%",
-    "uptimeMonth": "55.61%",
-    "uptimeYear": "55.61%",
+    "uptime": "48.85%",
+    "uptimeDay": "48.85%",
+    "uptimeWeek": "48.85%",
+    "uptimeMonth": "48.85%",
+    "uptimeYear": "48.85%",
     "time": 776,
     "timeDay": 776,
     "timeWeek": 776,
     "timeMonth": 776,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2024-10-28": 156
+      "2024-10-28": 204
     }
   },
   {
@@ -258,7 +258,7 @@
     "timeMonth": 439,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2024-10-28": 351
+      "2024-10-28": 400
     }
   },
   {
@@ -302,12 +302,12 @@
     "url": "$KASM_IN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm-in",
-    "status": "up",
-    "uptime": "64.83%",
-    "uptimeDay": "64.83%",
-    "uptimeWeek": "64.83%",
-    "uptimeMonth": "64.83%",
-    "uptimeYear": "64.83%",
+    "status": "down",
+    "uptime": "69.02%",
+    "uptimeDay": "69.02%",
+    "uptimeWeek": "69.02%",
+    "uptimeMonth": "69.02%",
+    "uptimeYear": "69.02%",
     "time": 794,
     "timeDay": 794,
     "timeWeek": 794,
@@ -359,11 +359,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "85.94%",
-    "uptimeDay": "85.94%",
-    "uptimeWeek": "85.94%",
-    "uptimeMonth": "85.94%",
-    "uptimeYear": "85.94%",
+    "uptime": "87.65%",
+    "uptimeDay": "87.65%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "87.65%",
+    "uptimeYear": "87.65%",
     "time": 883,
     "timeDay": 883,
     "timeWeek": 883,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-28": 351
+      "2024-10-28": 399
     }
   },
   {
@@ -482,7 +482,7 @@
     "timeMonth": 958,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2024-10-28": 351
+      "2024-10-28": 399
     }
   },
   {
@@ -509,11 +509,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mqtt",
     "status": "up",
-    "uptime": "44.71%",
-    "uptimeDay": "44.71%",
-    "uptimeWeek": "44.71%",
-    "uptimeMonth": "44.71%",
-    "uptimeYear": "44.71%",
+    "uptime": "51.43%",
+    "uptimeDay": "51.43%",
+    "uptimeWeek": "51.43%",
+    "uptimeMonth": "51.43%",
+    "uptimeYear": "51.43%",
     "time": 112,
     "timeDay": 112,
     "timeWeek": 112,
