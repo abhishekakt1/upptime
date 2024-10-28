@@ -15,7 +15,7 @@ sites:
   - name: wiki
     url: https://wiki.abhishekakt.tk
   - name: ArchiePlays
-    url: https://www.archieplays.tk
+    url: https://archieplays.tk
   - name: AudioBooks
     url: https://audiobooks.abhishekakt.tk
   - name: Bazzar subtitle
@@ -43,7 +43,7 @@ sites:
   - name: NXcloud
     url: https://cd.abhishekakt.tk
   - name: Plex
-    url: https://plex.abhishekakt.tk
+    url: https://plex.abhishekakt.tk/web/index.html
   - name: Prowlarr
     url: https://prowlarr.abhishekakt.tk
   - name: qBitTorrent
@@ -53,7 +53,7 @@ sites:
   - name: Sonarr
     url: https://sonarr.abhishekakt.tk
   - name: Tautulli
-    url: https://agent.abhishekakt.tk
+    url: https://agent.abhishekakt.tk/
   - name: ThePugs
     url: https://thepugs.tk
   - name: Vaultwarden
@@ -61,7 +61,6 @@ sites:
   - name: MQTT
     url: mqtt.abhishekakt.tk
     port: 1833
-    check: "udp-ping"
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -69,9 +68,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  introTitle: "Uptime Monitor"
+  introMessage: 
     - title: Status
       href: /
     - title: GitHub
