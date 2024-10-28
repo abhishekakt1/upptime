@@ -6,60 +6,60 @@ sites:
   - name: npm-in
     url: $NPM_IN
   - name: npm-plex
-    url: https://npm-plex.abhishekakt.tk
+    url: $NPM_PLEX
   - name: npm-us
-    url: https://npm-us.abhishekakt.tk
+    url: $NPM_US
   - name: npm-nxcloud
-    url: https://npm-hyd.abhishekakt.tk
+    url: $NPM_NXCLOUD
     
   - name: wiki
-    url: https://wiki.abhishekakt.tk
+    url: $WIKI
   - name: ArchiePlays
-    url: https://archieplays.tk
+    url: $ARCHIEPLAYS
   - name: AudioBooks
-    url: https://audiobooks.abhishekakt.tk
+    url: $AUDIOBOOKS
   - name: Bazzar subtitle
-    url: https://subtitle.abhishekakt.tk
+    url: $BAZZAR_SUBTITLE
   - name: DR Vaultwarden
-    url: https://dr-pass.abhishekakt.tk
+    url: $DR_VAULTWARDEN
   - name: DR WIKI
-    url: https://dr-wiki.abhishekakt.tk
+    url: $DR_WIKI
   - name: Duplicati 
-    url: https://duplicati.abhishekakt.tk
+    url: $DUPLICATI
   - name: Graphana
-    url: https://graph.abhishekakt.tk
+    url: $GRAPHANA
   - name: Home Assistant
-    url: https://ha.abhishekakt.tk
+    url: $HOME_ASSISTANT
   - name: Jackett
-    url: https://jackett.abhishekakt.tk
+    url: $JACKETT
   - name: Jellyfin
-    url: https://jellyfin.abhishekakt.tk
+    url: $JELLYFIN
   - name: KASM
-    url: https://kasm.abhishekakt.tk
+    url: $KASM
   - name: KASM IN
-    url: https://kasm-in.abhishekakt.tk
+    url: $KASM_IN
   - name: Kavita
-    url: https://books.abhishekakt.tk
+    url: $BOOKS
   - name: NXcloud
-    url: https://cd.abhishekakt.tk
+    url: $NXCLOUD
   - name: Plex
-    url: https://plex.abhishekakt.tk/web/index.html
+    url: $PLEX
   - name: Prowlarr
-    url: https://prowlarr.abhishekakt.tk
+    url: $PROWLARR
   - name: qBitTorrent
-    url: https://tr.abhishekakt.tk
+    url: $QBITTORRENT
   - name: Radarr
-    url: https://radarr.abhishekakt.tk
+    url: $RADARR
   - name: Sonarr
-    url: https://sonarr.abhishekakt.tk
+    url: $SONARR
   - name: Tautulli
-    url: https://agent.abhishekakt.tk/
+    url: $TAUTULLI
   - name: ThePugs
-    url: https://thepugs.tk
+    url: $THEPUGS
   - name: Vaultwarden
-    url: https://pass.abhishekakt.tk
+    url: $VAULTWARDEN
   - name: MQTT
-    url: mqtt.abhishekakt.tk
+    url: $WIKI
     port: 1833
     
 status-website:
