@@ -1,7 +1,7 @@
-url: https://prowlarr.abhishekakt.tk
+url: $PROWLARR
 status: up
 code: 200
-responseTime: 209
-lastUpdated: 2024-10-28T11:19:21.010Z
+responseTime: 429
+lastUpdated: 2024-10-28T12:05:53.790Z
 startTime: 2024-10-28T08:50:40.285Z
 generator: Upptime <https://github.com/upptime/upptime>
