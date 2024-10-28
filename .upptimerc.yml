@@ -18,7 +18,7 @@ sites:
     url: $ARCHIEPLAYS
   - name: AudioBooks
     url: $AUDIOBOOKS
-  - name: Bazzar subtitle
+  - name: Bazzar subtitlefkasm
     url: $BAZZAR_SUBTITLE
   - name: DR Vaultwarden
     url: $DR_VAULTWARDEN
@@ -29,13 +29,13 @@ sites:
   - name: Graphana
     url: $GRAPHANA
   - name: Home Assistant
-    url: $HOME_ASSISTANT
+    url: $HA
   - name: Jackett
     url: $JACKETT
   - name: Jellyfin
     url: $JELLYFIN
   - name: KASM
-    url: $KASM
+    url: $KASM_US
   - name: KASM IN
     url: $KASM_IN
   - name: Kavita
