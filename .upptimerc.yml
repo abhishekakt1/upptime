@@ -69,7 +69,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Uptime Monitor"
-  introMessage: 
+  introMessage: Monitor uptime of all apps. 
     - title: Status
       href: /
     - title: GitHub
