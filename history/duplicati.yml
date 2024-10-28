@@ -1,7 +1,7 @@
-url: https://duplicati.abhishekakt.tk
+url: $DUPLICATI
 status: up
 code: 200
-responseTime: 1179
-lastUpdated: 2024-10-28T11:19:10.521Z
+responseTime: 1071
+lastUpdated: 2024-10-28T12:05:39.515Z
 startTime: 2024-10-28T08:50:24.679Z
 generator: Upptime <https://github.com/upptime/upptime>
