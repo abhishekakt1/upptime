@@ -11,9 +11,58 @@ sites:
     url: https://npm-us.abhishekakt.tk
   - name: npm-nxcloud
     url: https://npm-hyd.abhishekakt.tk
+    
   - name: wiki
-    url: https://wiki.abhishekakt.tk/
-
+    url: https://wiki.abhishekakt.tk
+  - name: ArchiePlays
+    url: https://www.archieplays.tk
+  - name: AudioBooks
+    url: https://audiobooks.abhishekakt.tk
+  - name: Bazzar subtitle
+    url: https://subtitle.abhishekakt.tk
+  - name: DR Vaultwarden
+    url: https://dr-pass.abhishekakt.tk
+  - name: DR WIKI
+    url: https://dr-wiki.abhishekakt.tk
+  - name: Duplicati 
+    url: https://duplicati.abhishekakt.tk
+  - name: Graphana
+    url: https://graph.abhishekakt.tk
+  - name: Home Assistant
+    url: https://ha.abhishekakt.tk
+  - name: Jackett
+    url: https://jackett.abhishekakt.tk
+  - name: Jellyfin
+    url: https://jellyfin.abhishekakt.tk
+  - name: KASM
+    url: https://kasm.abhishekakt.tk
+  - name: KASM IN
+    url: https://kasm-in.abhishekakt.tk
+  - name: Kavita
+    url: https://books.abhishekakt.tk
+  - name: NXcloud
+    url: https://cd.abhishekakt.tk
+  - name: Plex
+    url: https://plex.abhishekakt.tk
+  - name: Prowlarr
+    url: https://prowlarr.abhishekakt.tk
+  - name: qBitTorrent
+    url: https://tr.abhishekakt.tk
+  - name: Radarr
+    url: https://radarr.abhishekakt.tk
+  - name: Sonarr
+    url: https://sonarr.abhishekakt.tk
+  - name: Tautulli
+    url: https://agent.abhishekakt.tk
+  - name: ThePugs
+    url: https://thepugs.tk
+  - name: Vaultwarden
+    url: https://pass.abhishekakt.tk
+  - name: MQTT
+    url: mqtt.abhishekakt.tk
+    port: 1833
+    check: "tcp-ping"
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
