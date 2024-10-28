@@ -61,7 +61,7 @@ sites:
   - name: MQTT
     url: mqtt.abhishekakt.tk
     port: 1833
-    check: "tcp-ping"
+    check: "udp-ping"
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
