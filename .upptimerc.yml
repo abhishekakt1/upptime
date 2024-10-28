@@ -11,6 +11,8 @@ sites:
     url: https://npm-us.abhishekakt.tk
   - name: npm-nxcloud
     url: https://npm-hyd.abhishekakt.tk
+  - name: wiki
+    url: https://wiki.abhishekakt.tk/
 
 
 status-website:
