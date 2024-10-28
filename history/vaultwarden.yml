@@ -1,7 +1,7 @@
-url: https://pass.abhishekakt.tk
+url: $VAULTWARDEN
 status: up
 code: 200
-responseTime: 879
-lastUpdated: 2024-10-28T11:19:29.803Z
+responseTime: 795
+lastUpdated: 2024-10-28T12:06:02.210Z
 startTime: 2024-10-28T08:50:52.265Z
 generator: Upptime <https://github.com/upptime/upptime>
