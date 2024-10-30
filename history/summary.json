@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audio-books",
     "status": "up",
-    "uptime": "59.14%",
+    "uptime": "59.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.14%",
-    "uptimeMonth": "59.14%",
-    "uptimeYear": "59.14%",
+    "uptimeWeek": "59.20%",
+    "uptimeMonth": "59.20%",
+    "uptimeYear": "59.20%",
     "time": 959,
     "timeDay": 1002,
     "timeWeek": 959,
@@ -151,19 +151,19 @@
     "url": "$DR_VAULTWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-vaultwarden",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1104,
-    "timeDay": 1161,
-    "timeWeek": 1104,
-    "timeMonth": 1104,
-    "timeYear": 1104,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1099,
+    "timeDay": 1061,
+    "timeWeek": 1099,
+    "timeMonth": 1099,
+    "timeYear": 1099,
     "dailyMinutesDown": {
-      "2024-10-30": 0
+      "2024-10-30": 5
     }
   },
   {
@@ -171,19 +171,19 @@
     "url": "$DR_WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-wiki",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1220,
-    "timeDay": 1389,
-    "timeWeek": 1220,
-    "timeMonth": 1220,
-    "timeYear": 1220,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1291,
+    "timeDay": 1633,
+    "timeWeek": 1291,
+    "timeMonth": 1291,
+    "timeYear": 1291,
     "dailyMinutesDown": {
-      "2024-10-30": 0
+      "2024-10-30": 5
     }
   },
   {
@@ -228,11 +228,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "87.69%",
+    "uptime": "87.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.69%",
-    "uptimeMonth": "87.69%",
-    "uptimeYear": "87.69%",
+    "uptimeWeek": "87.71%",
+    "uptimeMonth": "87.71%",
+    "uptimeYear": "87.71%",
     "time": 782,
     "timeDay": 731,
     "timeWeek": 782,
@@ -259,7 +259,7 @@
     "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-10-30": 1128,
+      "2024-10-30": 1133,
       "2024-10-29": 1440,
       "2024-10-28": 909
     }
@@ -481,7 +481,7 @@
     "timeMonth": 821,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2024-10-30": 1128,
+      "2024-10-30": 1133,
       "2024-10-29": 1440,
       "2024-10-28": 909
     }
