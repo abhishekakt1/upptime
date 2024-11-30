@@ -1,7 +1,7 @@
 url: $AUDIOBOOKS
-status: down
-code: 502
-responseTime: 1103
-lastUpdated: 2024-11-30T23:12:19.954Z
+status: up
+code: 200
+responseTime: 1058
+lastUpdated: 2024-11-30T23:32:25.294Z
 startTime: 2024-10-28T08:50:15.760Z
 generator: Upptime <https://github.com/upptime/upptime>
