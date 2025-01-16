@@ -1,7 +1,7 @@
 url: $GRAPHANA
-status: down
-code: 502
-responseTime: 1179
-lastUpdated: 2025-01-16T18:45:52.257Z
+status: up
+code: 200
+responseTime: 1801
+lastUpdated: 2025-01-16T18:51:13.884Z
 startTime: 2024-10-28T08:50:26.172Z
 generator: Upptime <https://github.com/upptime/upptime>
