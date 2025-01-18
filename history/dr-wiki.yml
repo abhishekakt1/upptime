@@ -1,7 +1,7 @@
 url: $DR_WIKI
-status: up
-code: 200
-responseTime: 1434
-lastUpdated: 2025-01-17T23:11:36.140Z
+status: down
+code: 502
+responseTime: 1136
+lastUpdated: 2025-01-18T18:50:01.007Z
 startTime: 2024-10-28T08:50:21.497Z
 generator: Upptime <https://github.com/upptime/upptime>
