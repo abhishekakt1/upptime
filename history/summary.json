@@ -6,18 +6,16 @@
     "slug": "npm-in",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 998,
     "timeDay": 933,
     "timeWeek": 1086,
     "timeMonth": 993,
     "timeYear": 998,
-    "dailyMinutesDown": {
-      "2025-01-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "npm-plex",
@@ -62,18 +60,16 @@
     "slug": "npm-nxcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 933,
     "timeDay": 852,
     "timeWeek": 943,
     "timeMonth": 920,
     "timeYear": 933,
-    "dailyMinutesDown": {
-      "2025-01-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wiki",
@@ -100,18 +96,16 @@
     "slug": "archie-plays",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 956,
     "timeDay": 885,
     "timeWeek": 951,
     "timeMonth": 933,
     "timeYear": 956,
-    "dailyMinutesDown": {
-      "2025-01-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AudioBooks",
@@ -152,37 +146,35 @@
     "slug": "bazzar-subtitlefkasm",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
     "timeDay": 1025,
     "timeWeek": 1008,
     "timeMonth": 946,
     "timeYear": 953,
-    "dailyMinutesDown": {
-      "2025-01-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DR Vaultwarden",
     "url": "$DR_VAULTWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "87.08%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "90.61%",
-    "uptimeMonth": "88.25%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "90.56%",
+    "uptimeMonth": "88.24%",
     "uptimeYear": "87.08%",
-    "time": 1313,
-    "timeDay": 1210,
-    "timeWeek": 1286,
+    "time": 1312,
+    "timeDay": 1196,
+    "timeWeek": 1279,
     "timeMonth": 1465,
-    "timeYear": 1313,
+    "timeYear": 1312,
     "dailyMinutesDown": {
-      "2025-01-31": 6,
+      "2025-01-31": 11,
       "2025-01-30": 242,
       "2025-01-27": 699,
       "2025-01-24": 466,
@@ -218,19 +210,19 @@
     "url": "$DR_WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "87.06%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "90.63%",
-    "uptimeMonth": "88.20%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "88.19%",
     "uptimeYear": "87.06%",
     "time": 1517,
-    "timeDay": 1461,
-    "timeWeek": 1753,
-    "timeMonth": 1598,
+    "timeDay": 1448,
+    "timeWeek": 1663,
+    "timeMonth": 1596,
     "timeYear": 1517,
     "dailyMinutesDown": {
-      "2025-01-31": 6,
+      "2025-01-31": 11,
       "2025-01-30": 240,
       "2025-01-27": 698,
       "2025-01-24": 464,
@@ -268,18 +260,16 @@
     "slug": "duplicati",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 947,
     "timeDay": 865,
     "timeWeek": 909,
     "timeMonth": 828,
     "timeYear": 947,
-    "dailyMinutesDown": {
-      "2025-01-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Graphana",
@@ -288,18 +278,16 @@
     "slug": "graphana",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1798,
     "timeDay": 1714,
     "timeWeek": 1827,
     "timeMonth": 1848,
     "timeYear": 1798,
-    "dailyMinutesDown": {
-      "2025-01-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home Assistant",
@@ -307,18 +295,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.69%",
     "time": 858,
     "timeDay": 881,
     "timeWeek": 917,
     "timeMonth": 853,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2025-01-31": 5,
       "2024-10-28": 428
     }
   },
@@ -339,7 +326,7 @@
     "timeMonth": 411,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-01-31": 1132,
+      "2025-01-31": 1137,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -518,18 +505,16 @@
     "slug": "n-xcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1260,
     "timeDay": 1268,
     "timeWeek": 1264,
     "timeMonth": 1259,
     "timeYear": 1260,
-    "dailyMinutesDown": {
-      "2025-01-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
@@ -656,7 +641,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-01-31": 1132,
+      "2025-01-31": 1137,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
