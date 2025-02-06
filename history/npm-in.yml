@@ -1,7 +1,7 @@
 url: $NPM_IN
-status: down
-code: 521
-responseTime: 504
-lastUpdated: 2025-02-06T18:45:21.128Z
+status: up
+code: 200
+responseTime: 1293
+lastUpdated: 2025-02-06T18:50:32.512Z
 startTime: 2024-10-28T07:58:55.460Z
 generator: Upptime <https://github.com/upptime/upptime>
