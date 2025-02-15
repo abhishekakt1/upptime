@@ -293,19 +293,19 @@
     "url": "$GRAPHANA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "graphana",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1807,
-    "timeDay": 2366,
-    "timeWeek": 2111,
-    "timeMonth": 1866,
-    "timeYear": 1807,
+    "time": 1811,
+    "timeDay": 2394,
+    "timeWeek": 2149,
+    "timeMonth": 1879,
+    "timeYear": 1811,
     "dailyMinutesDown": {
-      "2025-02-15": 1
+      "2025-02-15": 3
     }
   },
   {
@@ -345,7 +345,7 @@
     "timeMonth": 375,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-02-15": 946,
+      "2025-02-15": 949,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -675,7 +675,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-02-15": 946,
+      "2025-02-15": 949,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
