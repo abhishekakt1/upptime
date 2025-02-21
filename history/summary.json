@@ -163,19 +163,19 @@
     "url": "$DR_VAULTWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-vaultwarden",
-    "status": "down",
-    "uptime": "84.61%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "75.97%",
+    "status": "up",
+    "uptime": "84.60%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "75.92%",
     "uptimeMonth": "74.92%",
-    "uptimeYear": "84.61%",
+    "uptimeYear": "84.60%",
     "time": 1424,
-    "timeDay": 1366,
-    "timeWeek": 1275,
-    "timeMonth": 1879,
+    "timeDay": 1391,
+    "timeWeek": 1291,
+    "timeMonth": 1876,
     "timeYear": 1424,
     "dailyMinutesDown": {
-      "2025-02-21": 1,
+      "2025-02-21": 5,
       "2025-02-20": 1040,
       "2025-02-19": 749,
       "2025-02-16": 633,
@@ -223,19 +223,19 @@
     "url": "$DR_WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-wiki",
-    "status": "down",
-    "uptime": "84.58%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "76.01%",
+    "status": "up",
+    "uptime": "84.57%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "75.97%",
     "uptimeMonth": "74.82%",
-    "uptimeYear": "84.58%",
-    "time": 1523,
-    "timeDay": 1504,
-    "timeWeek": 1638,
-    "timeMonth": 1636,
-    "timeYear": 1523,
+    "uptimeYear": "84.57%",
+    "time": 1526,
+    "timeDay": 1838,
+    "timeWeek": 1644,
+    "timeMonth": 1647,
+    "timeYear": 1526,
     "dailyMinutesDown": {
-      "2025-02-21": 1,
+      "2025-02-21": 5,
       "2025-02-20": 1039,
       "2025-02-19": 748,
       "2025-02-16": 631,
@@ -351,7 +351,7 @@
     "timeMonth": 384,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-02-21": 1131,
+      "2025-02-21": 1136,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -587,18 +587,16 @@
     "slug": "prowlarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 395,
     "timeWeek": 282,
     "timeMonth": 276,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2025-02-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "qBitTorrent",
@@ -607,18 +605,16 @@
     "slug": "q-bit-torrent",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 863,
     "timeDay": 728,
     "timeWeek": 854,
     "timeMonth": 893,
     "timeYear": 863,
-    "dailyMinutesDown": {
-      "2025-02-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -627,18 +623,16 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1118,
     "timeDay": 952,
     "timeWeek": 1110,
     "timeMonth": 1166,
     "timeYear": 1118,
-    "dailyMinutesDown": {
-      "2025-02-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -647,18 +641,16 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1115,
     "timeDay": 895,
     "timeWeek": 1107,
     "timeMonth": 1137,
     "timeYear": 1115,
-    "dailyMinutesDown": {
-      "2025-02-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tautulli",
@@ -667,18 +659,16 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 852,
     "timeDay": 758,
     "timeWeek": 848,
     "timeMonth": 866,
     "timeYear": 852,
-    "dailyMinutesDown": {
-      "2025-02-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ThePugs",
@@ -697,7 +687,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-02-21": 1131,
+      "2025-02-21": 1136,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -823,9 +813,9 @@
     "slug": "vaultwarden",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 823,
     "timeDay": 711,
@@ -833,7 +823,6 @@
     "timeMonth": 855,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2025-02-21": 6,
       "2024-11-17": 467,
       "2024-11-16": 262
     }
