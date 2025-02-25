@@ -153,7 +153,7 @@
     "uptimeYear": "100.00%",
     "time": 976,
     "timeDay": 1086,
-    "timeWeek": 1118,
+    "timeWeek": 1096,
     "timeMonth": 1057,
     "timeYear": 976,
     "dailyMinutesDown": {}
@@ -355,7 +355,7 @@
     "timeMonth": 382,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-02-25": 1412,
+      "2025-02-25": 1418,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -557,19 +557,19 @@
     "url": "$NXCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n-xcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1258,
-    "timeDay": 1002,
-    "timeWeek": 1229,
-    "timeMonth": 1252,
+    "timeDay": 1123,
+    "timeWeek": 1244,
+    "timeMonth": 1255,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2025-02-25": 1
+      "2025-02-25": 6
     }
   },
   {
@@ -631,19 +631,19 @@
     "url": "$RADARR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1121,
-    "timeDay": 1001,
-    "timeWeek": 1148,
-    "timeMonth": 1147,
-    "timeYear": 1121,
+    "time": 1123,
+    "timeDay": 1126,
+    "timeWeek": 1169,
+    "timeMonth": 1153,
+    "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-02-25": 0
+      "2025-02-25": 6
     }
   },
   {
@@ -699,7 +699,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-02-25": 1412,
+      "2025-02-25": 1418,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
