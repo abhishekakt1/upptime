@@ -226,11 +226,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-wiki",
     "status": "up",
-    "uptime": "83.84%",
+    "uptime": "83.85%",
     "uptimeDay": "47.51%",
     "uptimeWeek": "60.38%",
     "uptimeMonth": "74.35%",
-    "uptimeYear": "83.84%",
+    "uptimeYear": "83.85%",
     "time": 1570,
     "timeDay": 4803,
     "timeWeek": 2307,
@@ -355,7 +355,8 @@
     "timeMonth": 382,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-02-25": 1418,
+      "2025-02-26": 61,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -559,18 +560,16 @@
     "slug": "n-xcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1258,
     "timeDay": 1123,
     "timeWeek": 1244,
     "timeMonth": 1255,
     "timeYear": 1258,
-    "dailyMinutesDown": {
-      "2025-02-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
@@ -633,18 +632,16 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1123,
     "timeDay": 1126,
     "timeWeek": 1169,
     "timeMonth": 1153,
     "timeYear": 1123,
-    "dailyMinutesDown": {
-      "2025-02-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -699,7 +696,8 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-02-25": 1418,
+      "2025-02-26": 61,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
