@@ -332,19 +332,19 @@
     "url": "$HA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-assistant",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.77%",
     "time": 869,
-    "timeDay": 888,
-    "timeWeek": 926,
-    "timeMonth": 924,
+    "timeDay": 910,
+    "timeWeek": 932,
+    "timeMonth": 926,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-03-07": 0,
+      "2025-03-07": 7,
       "2024-10-28": 428
     }
   },
@@ -365,7 +365,7 @@
     "timeMonth": 385,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2025-03-07": 1412,
+      "2025-03-07": 1419,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -541,9 +541,9 @@
     "slug": "kasm-in",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "67.01%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "66.55%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.66%",
     "time": 896,
     "timeDay": 374,
@@ -551,7 +551,7 @@
     "timeMonth": 973,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2025-03-07": 475,
+      "2025-03-07": 482,
       "2024-10-28": 162
     }
   },
@@ -716,7 +716,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-03-07": 1412,
+      "2025-03-07": 1419,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
