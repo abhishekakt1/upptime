@@ -366,7 +366,7 @@
     "timeMonth": 404,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2025-03-13": 1411,
+      "2025-03-13": 1418,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -549,8 +549,8 @@
     "status": "down",
     "uptime": "95.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.58%",
-    "uptimeMonth": "79.19%",
+    "uptimeWeek": "9.52%",
+    "uptimeMonth": "79.18%",
     "uptimeYear": "95.28%",
     "time": 872,
     "timeDay": 300,
@@ -558,7 +558,7 @@
     "timeMonth": 844,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-03-13": 1411,
+      "2025-03-13": 1418,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -591,19 +591,19 @@
     "url": "$NXCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n-xcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1253,
-    "timeDay": 952,
-    "timeWeek": 1170,
-    "timeMonth": 1220,
-    "timeYear": 1253,
+    "time": 1254,
+    "timeDay": 1063,
+    "timeWeek": 1183,
+    "timeMonth": 1222,
+    "timeYear": 1254,
     "dailyMinutesDown": {
-      "2025-03-13": 0
+      "2025-03-13": 6
     }
   },
   {
@@ -731,7 +731,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-03-13": 1411,
+      "2025-03-13": 1418,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
