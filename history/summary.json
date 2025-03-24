@@ -374,7 +374,8 @@
     "timeMonth": 388,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-03-23": 1419,
+      "2025-03-24": 65,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -565,18 +566,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm-in",
     "status": "down",
-    "uptime": "88.78%",
+    "uptime": "88.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.30%",
-    "uptimeYear": "88.78%",
+    "uptimeMonth": "46.11%",
+    "uptimeYear": "88.75%",
     "time": 840,
     "timeDay": 272,
     "timeWeek": 327,
     "timeMonth": 614,
     "timeYear": 840,
     "dailyMinutesDown": {
-      "2025-03-23": 1419,
+      "2025-03-24": 65,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -675,18 +677,16 @@
     "slug": "q-bit-torrent",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 865,
     "timeDay": 819,
     "timeWeek": 809,
     "timeMonth": 857,
     "timeYear": 865,
-    "dailyMinutesDown": {
-      "2025-03-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -695,18 +695,16 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1124,
     "timeDay": 983,
     "timeWeek": 1030,
     "timeMonth": 1137,
     "timeYear": 1124,
-    "dailyMinutesDown": {
-      "2025-03-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -761,7 +759,8 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-03-23": 1419,
+      "2025-03-24": 65,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
