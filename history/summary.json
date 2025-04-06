@@ -6,18 +6,16 @@
     "slug": "npm-in",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1025,
     "timeDay": 950,
     "timeWeek": 1062,
     "timeMonth": 1039,
     "timeYear": 1025,
-    "dailyMinutesDown": {
-      "2025-04-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "npm-plex",
@@ -26,18 +24,16 @@
     "slug": "npm-plex",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
     "timeDay": 264,
     "timeWeek": 276,
     "timeMonth": 281,
     "timeYear": 346,
-    "dailyMinutesDown": {
-      "2025-04-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "npm-us",
@@ -64,18 +60,16 @@
     "slug": "npm-nxcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 944,
-    "timeDay": 784,
+    "timeDay": 753,
     "timeWeek": 865,
     "timeMonth": 938,
     "timeYear": 944,
-    "dailyMinutesDown": {
-      "2025-04-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wiki",
@@ -102,18 +96,16 @@
     "slug": "archie-plays",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 965,
-    "timeDay": 768,
+    "timeDay": 736,
     "timeWeek": 854,
     "timeMonth": 942,
     "timeYear": 965,
-    "dailyMinutesDown": {
-      "2025-04-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AudioBooks",
@@ -156,37 +148,35 @@
     "slug": "bazzar-subtitlefkasm",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
     "timeDay": 883,
     "timeWeek": 962,
     "timeMonth": 938,
     "timeYear": 970,
-    "dailyMinutesDown": {
-      "2025-04-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DR Vaultwarden",
     "url": "$DR_VAULTWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "81.20%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "58.84%",
-    "uptimeMonth": "68.68%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "58.79%",
+    "uptimeMonth": "68.66%",
     "uptimeYear": "81.20%",
     "time": 1404,
-    "timeDay": 1069,
-    "timeWeek": 1972,
+    "timeDay": 1099,
+    "timeWeek": 1942,
     "timeMonth": 1397,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2025-04-06": 6,
+      "2025-04-06": 11,
       "2025-04-05": 711,
       "2025-04-03": 1215,
       "2025-04-02": 1381,
@@ -255,19 +245,19 @@
     "url": "$DR_WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "81.17%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "58.82%",
-    "uptimeMonth": "68.63%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "58.77%",
+    "uptimeMonth": "68.62%",
     "uptimeYear": "81.17%",
-    "time": 1581,
-    "timeDay": 1304,
-    "timeWeek": 1424,
-    "timeMonth": 1476,
-    "timeYear": 1581,
+    "time": 1580,
+    "timeDay": 1357,
+    "timeWeek": 1429,
+    "timeMonth": 1473,
+    "timeYear": 1580,
     "dailyMinutesDown": {
-      "2025-04-06": 6,
+      "2025-04-06": 11,
       "2025-04-05": 717,
       "2025-04-03": 1214,
       "2025-04-02": 1379,
@@ -338,18 +328,16 @@
     "slug": "duplicati",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 939,
     "timeDay": 821,
     "timeWeek": 868,
     "timeMonth": 891,
     "timeYear": 939,
-    "dailyMinutesDown": {
-      "2025-04-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Graphana",
@@ -358,18 +346,16 @@
     "slug": "graphana",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1848,
     "timeDay": 1835,
     "timeWeek": 1838,
     "timeMonth": 1828,
     "timeYear": 1848,
-    "dailyMinutesDown": {
-      "2025-04-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home Assistant",
@@ -378,17 +364,16 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.80%",
     "time": 864,
-    "timeDay": 829,
+    "timeDay": 812,
     "timeWeek": 930,
     "timeMonth": 849,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2025-04-06": 5,
       "2025-03-30": 23,
       "2024-10-28": 428
     }
@@ -410,7 +395,7 @@
     "timeMonth": 442,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-04-06": 1132,
+      "2025-04-06": 1137,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -618,7 +603,7 @@
     "uptime": "81.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.94%",
+    "uptimeMonth": "0.92%",
     "uptimeYear": "81.14%",
     "time": 807,
     "timeDay": 324,
@@ -626,7 +611,7 @@
     "timeMonth": 384,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-04-06": 1132,
+      "2025-04-06": 1137,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -685,18 +670,16 @@
     "slug": "n-xcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1253,
     "timeDay": 1236,
     "timeWeek": 1213,
     "timeMonth": 1227,
     "timeYear": 1253,
-    "dailyMinutesDown": {
-      "2025-04-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
@@ -823,7 +806,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-04-06": 1132,
+      "2025-04-06": 1137,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -993,9 +976,9 @@
     "slug": "vaultwarden",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 832,
     "timeDay": 682,
@@ -1003,7 +986,6 @@
     "timeMonth": 849,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2025-04-06": 5,
       "2024-11-17": 467,
       "2024-11-16": 262
     }
