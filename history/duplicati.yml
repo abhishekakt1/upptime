@@ -1,7 +1,7 @@
 url: $DUPLICATI
-status: up
-code: 200
-responseTime: 982
-lastUpdated: 2025-04-07T23:13:42.801Z
+status: down
+code: 521
+responseTime: 355
+lastUpdated: 2025-04-08T18:45:40.576Z
 startTime: 2024-10-28T08:50:24.679Z
 generator: Upptime <https://github.com/upptime/upptime>
