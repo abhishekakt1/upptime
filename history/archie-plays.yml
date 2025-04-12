@@ -1,7 +1,7 @@
 url: $ARCHIEPLAYS
-status: down
-code: 521
-responseTime: 450
-lastUpdated: 2025-04-12T18:45:59.681Z
+status: up
+code: 200
+responseTime: 1191
+lastUpdated: 2025-04-12T18:51:29.116Z
 startTime: 2024-10-28T08:50:11.721Z
 generator: Upptime <https://github.com/upptime/upptime>
