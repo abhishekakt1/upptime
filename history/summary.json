@@ -60,18 +60,16 @@
     "slug": "npm-nxcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 940,
     "timeDay": 804,
     "timeWeek": 870,
     "timeMonth": 916,
     "timeYear": 940,
-    "dailyMinutesDown": {
-      "2025-04-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wiki",
@@ -98,18 +96,16 @@
     "slug": "archie-plays",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 959,
     "timeDay": 818,
     "timeWeek": 865,
     "timeMonth": 920,
     "timeYear": 959,
-    "dailyMinutesDown": {
-      "2025-04-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AudioBooks",
@@ -168,19 +164,19 @@
     "url": "$DR_VAULTWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "80.21%",
-    "uptimeDay": "40.39%",
-    "uptimeWeek": "57.28%",
-    "uptimeMonth": "62.20%",
+    "uptimeDay": "40.08%",
+    "uptimeWeek": "57.24%",
+    "uptimeMonth": "62.19%",
     "uptimeYear": "80.21%",
     "time": 1391,
-    "timeDay": 1190,
+    "timeDay": 1233,
     "timeWeek": 1161,
-    "timeMonth": 1388,
+    "timeMonth": 1391,
     "timeYear": 1391,
     "dailyMinutesDown": {
-      "2025-04-13": 858,
+      "2025-04-13": 862,
       "2025-04-12": 967,
       "2025-04-10": 749,
       "2025-04-09": 1065,
@@ -253,19 +249,19 @@
     "url": "$DR_WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dr-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "80.17%",
-    "uptimeDay": "40.50%",
-    "uptimeWeek": "57.26%",
-    "uptimeMonth": "62.16%",
+    "uptimeDay": "40.18%",
+    "uptimeWeek": "57.21%",
+    "uptimeMonth": "62.15%",
     "uptimeYear": "80.17%",
     "time": 1580,
-    "timeDay": 1353,
-    "timeWeek": 1574,
-    "timeMonth": 1516,
+    "timeDay": 1384,
+    "timeWeek": 1575,
+    "timeMonth": 1509,
     "timeYear": 1580,
     "dailyMinutesDown": {
-      "2025-04-13": 857,
+      "2025-04-13": 861,
       "2025-04-12": 972,
       "2025-04-10": 749,
       "2025-04-09": 1063,
@@ -340,18 +336,16 @@
     "slug": "duplicati",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 931,
     "timeDay": 743,
     "timeWeek": 795,
     "timeMonth": 849,
     "timeYear": 931,
-    "dailyMinutesDown": {
-      "2025-04-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Graphana",
@@ -378,9 +372,9 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.81%",
     "time": 861,
     "timeDay": 856,
@@ -388,7 +382,6 @@
     "timeMonth": 855,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2025-04-13": 5,
       "2025-03-30": 23,
       "2024-10-28": 428
     }
@@ -410,7 +403,7 @@
     "timeMonth": 490,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2025-04-13": 1132,
+      "2025-04-13": 1137,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -633,7 +626,7 @@
     "timeMonth": 373,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2025-04-13": 1132,
+      "2025-04-13": 1137,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -699,18 +692,16 @@
     "slug": "n-xcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1250,
     "timeDay": 1045,
     "timeWeek": 1200,
     "timeMonth": 1219,
     "timeYear": 1250,
-    "dailyMinutesDown": {
-      "2025-04-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
@@ -837,7 +828,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-04-13": 1132,
+      "2025-04-13": 1137,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
