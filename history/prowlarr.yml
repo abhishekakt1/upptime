@@ -1,7 +1,7 @@
 url: $PROWLARR
-status: up
-code: 200
-responseTime: 328
-lastUpdated: 2025-04-22T23:13:09.279Z
+status: down
+code: 502
+responseTime: 217
+lastUpdated: 2025-04-23T18:45:05.449Z
 startTime: 2024-10-28T08:50:40.285Z
 generator: Upptime <https://github.com/upptime/upptime>
