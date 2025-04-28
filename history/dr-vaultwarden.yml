@@ -1,7 +1,7 @@
 url: $DR_VAULTWARDEN
-status: down
-code: 502
-responseTime: 956
-lastUpdated: 2025-04-27T23:28:58.164Z
+status: up
+code: 200
+responseTime: 1110
+lastUpdated: 2025-04-28T11:28:51.647Z
 startTime: 2024-10-28T08:50:18.313Z
 generator: Upptime <https://github.com/upptime/upptime>
