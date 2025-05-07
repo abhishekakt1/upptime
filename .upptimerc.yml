@@ -59,7 +59,7 @@ sites:
   - name: Vaultwarden
     url: $VAULTWARDEN
   - name: MQTT
-    url: $WIKI
+    url: $MQTT
     port: 1833
     
 status-website:
