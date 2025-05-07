@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1024,
+    "time": 1022,
     "timeDay": 1195,
     "timeWeek": 1053,
     "timeMonth": 1009,
-    "timeYear": 1024,
+    "timeYear": 1022,
     "dailyMinutesDown": {}
   },
   {
@@ -1117,7 +1117,7 @@
     "slug": "mqtt",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
