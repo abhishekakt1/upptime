@@ -1,7 +1,7 @@
-url: $WIKI
-status: up
-code: 200
-responseTime: 121
-lastUpdated: 2025-05-06T23:13:32.093Z
+url: $MQTT
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-05-07T20:58:20.306Z
 startTime: 2024-10-28T08:50:53.553Z
 generator: Upptime <https://github.com/upptime/upptime>
