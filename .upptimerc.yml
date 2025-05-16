@@ -60,13 +60,14 @@ sites:
     url: $VAULTWARDEN
   - name: MQTT
     url: $MQTT
+    check: "tcp-ping"
     port: 1833
-  - name: UPTIME
-    url: $uptime
+  - name: uptime
+    url: $UPTIME
   - name: PDF
-    url: $pdf
+    url: $PDF
   - name: backup
-    url: $backup
+    url: $BACKUP
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
