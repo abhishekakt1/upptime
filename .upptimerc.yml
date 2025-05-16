@@ -61,6 +61,16 @@ sites:
   - name: MQTT
     url: $MQTT
     port: 1833
+  - name: DR-WIKI
+    url: $DR-WIKI
+  - name: DR-Pass
+    url: $DR-Pass 
+  - name: UPTIME
+    url: $uptime
+  - name: PDF
+    url: $pdf
+  - name: backup
+    url: $backup
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
