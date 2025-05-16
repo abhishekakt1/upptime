@@ -61,10 +61,6 @@ sites:
   - name: MQTT
     url: $MQTT
     port: 1833
-  - name: DR-WIKI
-    url: $DR-WIKI
-  - name: DR-Pass
-    url: $DR-Pass 
   - name: UPTIME
     url: $uptime
   - name: PDF
