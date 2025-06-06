@@ -1,7 +1,7 @@
 url: $TAUTULLI
-status: down
-code: 521
-responseTime: 309
-lastUpdated: 2025-06-06T18:45:24.636Z
+status: up
+code: 200
+responseTime: 955
+lastUpdated: 2025-06-06T18:55:23.681Z
 startTime: 2024-10-28T08:50:45.064Z
 generator: Upptime <https://github.com/upptime/upptime>
