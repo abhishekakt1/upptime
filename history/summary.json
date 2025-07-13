@@ -723,7 +723,7 @@
     "timeMonth": 382,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2025-07-13": 1413,
+      "2025-07-13": 1425,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -950,19 +950,19 @@
     "url": "$RADARR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1133,
-    "timeDay": 1038,
-    "timeWeek": 1025,
-    "timeMonth": 1102,
+    "timeDay": 1028,
+    "timeWeek": 1024,
+    "timeMonth": 1099,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2025-07-13": 2
+      "2025-07-13": 12
     }
   },
   {
@@ -1018,7 +1018,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-07-13": 1413,
+      "2025-07-13": 1425,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -1317,7 +1317,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-07-13": 1413,
+      "2025-07-13": 1425,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
