@@ -1,7 +1,7 @@
 url: $NPM_NXCLOUD
-status: down
-code: 521
-responseTime: 427
-lastUpdated: 2025-09-21T18:45:31.937Z
+status: up
+code: 200
+responseTime: 982
+lastUpdated: 2025-09-21T18:51:05.172Z
 startTime: 2024-10-28T07:58:58.701Z
 generator: Upptime <https://github.com/upptime/upptime>
