@@ -737,19 +737,19 @@
     "url": "$KASM_US",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 184,
-    "timeWeek": 136,
-    "timeMonth": 184,
+    "timeDay": 222,
+    "timeWeek": 154,
+    "timeMonth": 187,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-10-14": 2
+      "2025-10-14": 10
     }
   },
   {
@@ -769,7 +769,7 @@
     "timeMonth": 397,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-10-14": 1233,
+      "2025-10-14": 1243,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1155,7 +1155,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-10-14": 1234,
+      "2025-10-14": 1244,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1547,7 +1547,7 @@
     "timeMonth": 0,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-10-14": 1234,
+      "2025-10-14": 1244,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
