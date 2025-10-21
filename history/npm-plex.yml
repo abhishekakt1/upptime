@@ -1,7 +1,7 @@
 url: $NPM_PLEX
-status: down
-code: 521
-responseTime: 268
-lastUpdated: 2025-10-21T08:40:47.097Z
+status: up
+code: 200
+responseTime: 888
+lastUpdated: 2025-10-21T17:45:07.661Z
 startTime: 2024-10-28T07:58:56.842Z
 generator: Upptime <https://github.com/upptime/upptime>
