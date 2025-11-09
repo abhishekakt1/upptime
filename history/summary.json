@@ -128,7 +128,7 @@
     "uptime": "92.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.74%",
+    "uptimeMonth": "32.73%",
     "uptimeYear": "92.30%",
     "time": 975,
     "timeDay": 1014,
@@ -136,7 +136,7 @@
     "timeMonth": 982,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2025-11-09": 1413,
+      "2025-11-09": 1420,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -421,19 +421,19 @@
     "url": "$DUPLICATI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duplicati",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 948,
-    "timeDay": 681,
-    "timeWeek": 885,
-    "timeMonth": 958,
+    "timeDay": 783,
+    "timeWeek": 896,
+    "timeMonth": 959,
     "timeYear": 936,
     "dailyMinutesDown": {
-      "2025-11-09": 2
+      "2025-11-09": 7
     }
   },
   {
@@ -771,7 +771,7 @@
     "timeMonth": 375,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2025-11-09": 1413,
+      "2025-11-09": 1420,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -1194,7 +1194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 1413,
+      "2025-11-09": 1420,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -1599,7 +1599,7 @@
     "timeMonth": 0,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-11-09": 1413,
+      "2025-11-09": 1420,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
