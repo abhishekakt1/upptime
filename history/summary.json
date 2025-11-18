@@ -70,19 +70,19 @@
     "url": "$NPM_NXCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "npm-nxcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 971,
-    "timeDay": 673,
-    "timeWeek": 828,
-    "timeMonth": 949,
-    "timeYear": 969,
+    "time": 972,
+    "timeDay": 763,
+    "timeWeek": 860,
+    "timeMonth": 955,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2025-11-18": 43
+      "2025-11-18": 55
     }
   },
   {
@@ -776,7 +776,7 @@
     "timeMonth": 371,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-11-18": 1023,
+      "2025-11-18": 1037,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1215,7 +1215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 1024,
+      "2025-11-18": 1037,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1619,7 +1619,7 @@
     "timeMonth": 0,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-11-18": 1024,
+      "2025-11-18": 1037,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
