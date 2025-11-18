@@ -1,7 +1,7 @@
 url: $PDF
-status: up
-code: 200
-responseTime: 1094
-lastUpdated: 2025-11-17T23:15:26.750Z
+status: down
+code: 500
+responseTime: 59
+lastUpdated: 2025-11-18T11:45:30.725Z
 startTime: 2025-05-16T07:14:11.271Z
 generator: Upptime <https://github.com/upptime/upptime>
