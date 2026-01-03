@@ -1,7 +1,7 @@
 url: $BAZZAR_SUBTITLE
-status: down
-code: 502
-responseTime: 768
-lastUpdated: 2026-01-03T18:45:41.867Z
+status: up
+code: 200
+responseTime: 973
+lastUpdated: 2026-01-03T18:56:23.548Z
 startTime: 2024-10-28T19:05:55.447Z
 generator: Upptime <https://github.com/upptime/upptime>
