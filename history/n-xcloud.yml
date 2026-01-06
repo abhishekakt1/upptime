@@ -1,7 +1,7 @@
 url: $NXCLOUD
-status: down
-code: 502
-responseTime: 909
-lastUpdated: 2026-01-06T23:31:17.508Z
+status: up
+code: 200
+responseTime: 1271
+lastUpdated: 2026-01-06T23:41:43.530Z
 startTime: 2024-10-28T08:50:35.649Z
 generator: Upptime <https://github.com/upptime/upptime>
