@@ -1,7 +1,7 @@
 url: $JACKETT
-status: down
-code: 502
-responseTime: 271
-lastUpdated: 2026-02-23T23:30:20.736Z
+status: up
+code: 200
+responseTime: 335
+lastUpdated: 2026-02-23T23:49:24.742Z
 startTime: 2024-10-28T08:50:29.139Z
 generator: Upptime <https://github.com/upptime/upptime>
