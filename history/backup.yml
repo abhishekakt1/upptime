@@ -1,7 +1,7 @@
 url: $BACKUP
-status: down
-code: 502
-responseTime: 732
-lastUpdated: 2026-07-05T18:46:47.449Z
+status: up
+code: 200
+responseTime: 1049
+lastUpdated: 2026-07-05T19:59:53.585Z
 startTime: 2025-05-16T07:14:12.840Z
 generator: Upptime <https://github.com/upptime/upptime>
